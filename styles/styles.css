@@ -1,0 +1,6 @@
+.pr-magnet-link{
+    background: red;
+}
+.pr-magnet-link>i{
+    background: red !important;
+}
